@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Find me here
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Active_LX)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Active_LX)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.skype.com/)
+[![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://www.skype.com/)
 
 
 ## Here is some useful stuff
