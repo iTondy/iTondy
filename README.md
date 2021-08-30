@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋</h1>
 
-![Yerevan DA Office View](https://user-images.githubusercontent.com/39828263/131295228-c384a22f-4364-48f4-b8ed-47caae1b334d.jpg)
+![Home page view](https://user-images.githubusercontent.com/39828263/131295228-c384a22f-4364-48f4-b8ed-47caae1b334d.jpg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenryh9n%2Fhenryh9n&count_bg=%231BA9BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=true)](https://github.com/iTondy)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fhenryh9n.tech)](https://github.com/iTondy)
