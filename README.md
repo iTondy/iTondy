@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Active_LX)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Active_LX)
 [![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)](https://www.skype.com/)
-![Instagram](https://img.shields.io/badge/Instagram-5851db?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-5851db?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867b2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 
 ## Here is some useful stuff
 
